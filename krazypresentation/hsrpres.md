@@ -13,6 +13,8 @@ code{
   background-color: #444;
 }
 
+
+
 table tr{
   background-color: transparent;
 }
@@ -29,7 +31,8 @@ table tr:nth-child(2n) {
 </style>
 
 # What's our next JVM language?
-<h2 style="text-align: center">:zap: Anushree Singh :zap:</h2>
+<h2 style="text-align: center"> Anushree Singh </h2>
+<h2 style="text-align: center">Krazyglue Team</h2>
 
 
 -----------------------
@@ -69,10 +72,10 @@ table tr:nth-child(2n) {
 
 # Candidate languages
 
-1. <b>Clojure</b>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;General-purpose, Emphasis on functional programming
+1. <b>Clojure</b>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Emphasis on functional programming
 2. <b>Groovy</b>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dynamic language with static-typing -  concise, easy to learn syntax
 3. <b>Kotlin</b>  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Statically typed for JVM, Android and the browser
-4. <b>Scala</b>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;General-purpose, Full support for functional programming
+4. <b>Scala</b>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full support for functional programming and object oriented programming
 
 ------------------------
 
@@ -138,9 +141,9 @@ table tr:nth-child(2n) {
  
 <center><h3>&uarr; CPU usage = &#8595; performance</h3></center>
 
-<center><img  src="cpubar.png" width="45%" height="30%"></center>
+<center><img  src="cpubar.png" width="45%" height="50%">  &nbsp;  <img  src="cpuusage.jpg" width="50%" height="50%"></center>
 
-<center><img  src="cpuusage.jpg" width="45%" height="30%"></center>
+
 
 
 
@@ -157,8 +160,8 @@ table tr:nth-child(2n) {
 
 
 
-<center><img  src="classesbar.png" width="45%" height="30%"></center>
-<center><img src="Classesusage.jpg" width="45%" height="30%"></center>
+<center><img  src="classesbar.png" width="45%" height="50%"> &nbsp; <img src="Classesusage.jpg" width="50%" height="50%"></center>
+
 
 
 
@@ -173,9 +176,9 @@ table tr:nth-child(2n) {
 
 
 
-<center><img  src="heapbar.png" width="45%" height="30%"></center>
+<center><img  src="heapbar.png" width="45%" height="50%"> &nbsp; <img src="Heapsize.jpg" width="50%" height="50%" ></center>
 
-<center><img src="Heapsize.jpg" width="45%" height="30%" ></center>
+
 
 
 
@@ -183,9 +186,9 @@ table tr:nth-child(2n) {
 
 <center><h2> Threads started </h2></center>
 
-<center><img  src="threadsbar.png" width="45%" height="30%"></center>
+<center><img  src="threadsbar.png" width="45%" height="50%"> &nbsp; <img  src="Threadsusage.jpg" width="50%" height="50%" ></center>
 
-<center><img  src="Threadsusage.jpg" width="45%" height="30%" ></center>
+
 
 
 
@@ -210,10 +213,9 @@ table tr:nth-child(2n) {
 
 -----------------------
 
-
-
 # Thank you! :v:
+<center><img src="collage.jpg" height="60%" width="80%"></center>
 
-##The presentation can be found on: 
+<center>The presentation can be found on: https://anushreesingh.github.io/krazypresentation/
 
-## This presentation has been made using markpress (https://www.npmjs.com/package/markpress).
+  This presentation has been made using markpress (https://www.npmjs.com/package/markpress) </center>
